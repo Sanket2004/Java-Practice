@@ -1,4 +1,3 @@
-package OOPS;
 
 class Animal {
     public void show() {

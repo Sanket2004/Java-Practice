@@ -1,5 +1,3 @@
-package OOPS;
-
 class MyException extends Exception {
     // Parameterized constructor to display a custom error message
     public MyException(String message) {
